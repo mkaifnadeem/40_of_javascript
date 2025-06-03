@@ -25,7 +25,7 @@ This repository contains my JavaScript solutions for the [40 Days of JavaScript 
 -   **`Day 10: Mastering Scope and Scope Chain`** - [Watch Video](https://youtu.be/14H2TsrjcLo) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/day-10/README.md)
 -   **`Day 11: Learn Closures With Real-World Examples`** - [Watch Video](https://youtu.be/lA7CGz3iHyI) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/day-11/README.md)
 -   **`Day 12: Mastering JavaScript Objects Real-World Examples`** - [Watch Video](https://youtu.be/c5vEfYj5yZM) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/day-12/README.md)
--   **`Day 13: IS "this" Weired? Let's Break it down.`** - [Watch Video](https://youtu.be/9mfb0j9PcHw) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/day-13/README.md)
+-   **`Day 13: IS "this" Weird? Let's Break it down.`** - [Watch Video](https://youtu.be/9mfb0j9PcHw) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/day-13/README.md)
 -   **`LIVE 01: STOP Writing Bad JavaScript Code and Upgrade Your Skills Now!`** - [Watch Video](https://www.youtube.com/watch?v=1XW_g3Ik3l8) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/live/live-one/questions.md)
 -   **`Day 14: Error Handling in javaScript`** - [Watch Video](https://youtu.be/XpMW-gxNYD8) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/day-14/README.md)
 -   **`Day 15: JavaScript Array Master Course - Beginner to PRO`** - [Watch Video](https://youtu.be/t05NguKFKo0) || [Source Code](https://github.com/tapascript/40-days-of-javascript/blob/main/day-15/README.md)
