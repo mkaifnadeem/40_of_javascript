@@ -64,7 +64,6 @@ if (age < 18) {
 ////5. Horoscope Sign Checker
 let monthOfBirth = "March";
 let normalizeMonthName = monthOfBirth.toLowerCase();
-console.log(normalizeMonthName);
 switch (normalizeMonthName) {
   case "december":
   case "january":
