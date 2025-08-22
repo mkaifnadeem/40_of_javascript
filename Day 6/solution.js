@@ -23,4 +23,6 @@ findMax(22, -33);
 
 //// Task 3:Function to Check if a String is a Palindrome
 
-,                       
+function isPalindrome(str) {
+  str.
+}
