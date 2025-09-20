@@ -11,9 +11,11 @@ age === ageForLicense
   : console.log("You cannot drive yet");
 
 // 3. Calculate CTC with a Bonus
-let salaryPerMonth = 12300;
+let salaryPerMonth = 37000;
 let annualSalary = salaryPerMonth * 12;
+console.log(annualSalary);
 let bonus = annualSalary * 0.2; //(20 / 100)
+console.log("bonus", bonus);
 let ctcIs = annualSalary + bonus;
 console.log("CTC", ctcIs);
 

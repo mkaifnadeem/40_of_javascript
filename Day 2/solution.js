@@ -31,7 +31,7 @@ console.log("Is Student:", isStudent);
 // favoriteLanguage = "Python"; // ❌ TypeError: Assignment to constant variable.
 
 //Task 4: Create an object and an array, assign
-//      them to new variables, modify, and observe changes.
+//them to new variables, modify, and observe changes.
 
 // Create an object and an array
 const person = { name: "Sam", age: 22 };
